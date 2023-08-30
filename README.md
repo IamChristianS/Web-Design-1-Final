@@ -18,6 +18,6 @@ This project is a final for my Web Design class and serves as a testament to my 
 <p>Hey, I'm Christian! 👋</p>
 <p>I'm an amateur developer, and high school student passionate about web design and computer science. 🌟</p>
 <p>I like working on small hobby projects that allow me to try new things and sharpen my skills. 🎨</p>
-<p>My main project is Project-Hub (Go check it out!). 🚀</p>
+<p>My main project is <a href="https://unbl0ck.github.io/">Project-Hub</a> (Go check it out!). 🚀</p>
 <p>It's a hub for running games whilst bypassing extension-blocking capabilities. 🎮</p>
 <p>I'm constantly updating, and improving this project, so go check it out. 🔄</p>
